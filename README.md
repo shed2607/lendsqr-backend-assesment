@@ -2,7 +2,8 @@
 
 ER diagram
 
-![Blank diagram](https://github.com/shed2607/lendsqr-backend-assesment/assets/87262901/2a50be51-f688-41d5-af0e-551a673ab922)
+![Blank diagram](https://github.com/shed2607/lendsqr-backend-assesment/assets/87262901/f985d4be-6abd-41c7-b5c5-7aaa32fe444e)
+
 
 
 ## Description
