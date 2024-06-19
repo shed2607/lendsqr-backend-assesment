@@ -1,0 +1,29 @@
+// {
+//     "compilerOptions": {
+//         "module": "NodeNext",
+//         // "moduleResolution": "node",
+//         "baseUrl": "src",
+//         "outDir": "dist",
+//         "sourceMap": true,
+//         "noImplicitAny": true
+//     },
+//     "include": [
+//         "src/**/*"
+//     ],
+// }
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "target": "es6",
+        "moduleResolution": "node",
+        "outDir": "./dist",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
